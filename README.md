@@ -1,3 +1,7 @@
+# A small app with CRUD capabilities
+
+![image](https://github.com/user-attachments/assets/155694c7-ced7-43da-8fd7-be88a9362e37)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
